@@ -1,0 +1,1 @@
+Contract-based Incentive Mechanism for Redactable Proof-of-Stake Blockchains
